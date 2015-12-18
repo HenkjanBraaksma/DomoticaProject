@@ -1,0 +1,4 @@
+Bromotica.MainActivity, Bromotica;md58cb2684bccf197a80c0f3c47481c57e5.MainActivity
+Bromotica.MainActivity, Bromotica, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58cb2684bccf197a80c0f3c47481c57e5.MainActivity
+Bromotica.MainActivity;md58cb2684bccf197a80c0f3c47481c57e5.MainActivity
+bromotica.MainActivity;md58cb2684bccf197a80c0f3c47481c57e5.MainActivity

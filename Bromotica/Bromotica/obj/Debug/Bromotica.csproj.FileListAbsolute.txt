@@ -1,0 +1,15 @@
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\bin\Debug\Bromotica.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\bin\Debug\Bromotica.pdb
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\bin\Debug\Bromotica.Bromotica.apk
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\bin\Debug\Bromotica.Bromotica-Signed.apk
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\Bromotica.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\Bromotica.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\Bromotica.pdb
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\android\bin\Bromotica.Bromotica.apk
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\res\layout\main.xml
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\res\values\strings.xml
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\res\drawable\icon.png
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\R.cs.flag
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\uploadflags.txt
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\obj\Debug\Bromotica.dll.mdb
+C:\Users\Stefan\documents\visual studio 2015\Projects\Bromotica\Bromotica\bin\Debug\Bromotica.dll.mdb
